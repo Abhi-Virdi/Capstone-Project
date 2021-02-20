@@ -1,0 +1,2 @@
+# Capstone-Project
+The Image Classification is the best way to classify an image of different categories. It is quiet easy for humans. In This image detection dataset we have total above 100000 images which is divided in training data,testing data,validation data. 90,000 are in the training dataset 10000 are in the validation dataset and 10000 are in the testing datasets and we also provide the labels files in which there are all the labels of 200 classes.In this task our basic approach is to create an algorithm to classify an image on the basis of their labels.
